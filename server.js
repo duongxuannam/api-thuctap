@@ -334,7 +334,7 @@ app.use(function (req, res, next) {
 
 //----------------------------------------test------------------------
 app.get('/', (req, res) => {
-    res.send('ahuhu');
+    res.send('Nam dang yeu');
 });
 
 //test gui hinh

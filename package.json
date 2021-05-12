@@ -15,7 +15,7 @@
     "express": "^4.16.2",
     "lodash": "^4.17.4",
     "mongoose": "^4.13.9",
-    "nodemailer": "^4.6.3",
+    "nodemailer": "^6.4.16",
     "request": "^2.88.2",
     "socket.io": "^2.0.4"
   }
